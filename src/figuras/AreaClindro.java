@@ -10,7 +10,7 @@ public class AreaClindro {
 	public static void main(String[] args) {
 		
 		double area = calcularArea(pedirRadio(), pedirAltura());
-		System.out.println("El area es: " + area);
+		System.out.println("El area del cilindro es: " + area);
 	}
 	
 	public static double calcularArea(double radio, double altura) {
