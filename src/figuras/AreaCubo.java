@@ -10,6 +10,7 @@ public class AreaCubo {
 		
 		double area = calcularArea(pedirLado());
 		System.out.println("El area del cubo es: " + area);
+		
 
 	}
 
